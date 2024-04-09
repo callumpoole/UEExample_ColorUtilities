@@ -1,0 +1,4 @@
+[submodule "Plugins/UEPlugin_ColorUtilities"]
+	path = Plugins/UEPlugin_ColorUtilities
+	url = https://github.com/callumpoole/UEPlugin_ColorUtilities
+	branch = main
